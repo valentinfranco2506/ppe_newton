@@ -21,4 +21,4 @@ Este sensor se encarga de medir la temperatura y la humedad del ambiente para re
 
 # Especificaciones del DHT11
 
-[DHT 11 Datasheet Mouser Electronics](https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf)
+[DHT 11 Datasheet - Mouser Electronics](https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf)
