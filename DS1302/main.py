@@ -1,17 +1,14 @@
 # ----- Codigo DS1306 ------
 from machine import Pin
-import ds1302
+from ds1302_local import DS1302
+
 # Initialize DS1302 RTC with specified pins (clk, dio, cs)
-ds = ds1302.DS1302(Pin(0),Pin(1),Pin(2))
+ds = DS1302(Pin(0),Pin(1),Pin(2))
+print(ds)
+print(dir(ds))
 
-# Set the date and time on the RTC
-ds.year(2025)  # Set the year to 2025
-ds.month(1)    # Set the month to January
-ds.day(17)     # Set the day to 17th
-ds.hour(00)    # Set the hour to midnight (00)
-ds.minute(17)  # Set the minute to 17
-ds.second(30)  # Set the second to 30
+ds.date_time() # returns the current datetime.
+ds.date_time([2018, 3, 9, 4, 23, 0, 1, 0]) # set datetime.
 
-# Print the date and time
-print( "Date={}/{}/{}" .format(ds.month(), ds.day(),ds.year()) )
-print( "Time={}:{}:{}" .format(ds.hour(), ds.minute(),ds.second()) )
+ds.hour() # returns hour.
+ds.second(10) # set second to 10.
