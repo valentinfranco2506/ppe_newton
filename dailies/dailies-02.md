@@ -15,6 +15,7 @@ Finalizar exitosamente la programación del MH-Real-Time, pudiendo mostrar los d
 Conocer y aprender el funcionamiento del sensor ACS712 (Sensor de corriente)
 Finalizar la programación de este sensor
 Poder practicar soldaduras en SMD (Surface Mount Device)
+Realizar los respectivos README.md con cada uno de los sensores utilizados hasta el momento 
 
 ## Trabajo actual
 
