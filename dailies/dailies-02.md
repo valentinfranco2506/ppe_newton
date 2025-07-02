@@ -1,31 +1,24 @@
 # Dia 2 - Practicas Profesionalizantes 🛠️
 
-En este directorio van los informes de reuniones diarias. Pueden tener el siguiente template como referencia:
-
 ```markdown
-# Reunión diaria \#02 - DD/MM/AA
+# Reunión diaria \#02 - 02/07/2025
 
 ## Miembros presentes
 
-- [ ] Integrante 1
-- [ ] Integrante 2
-- [ ] Integrante 3
-- [ ] Integrante 4
-- [ ] Integrante 5
-
-## Trabajo actual
-
-Describir brevemente el estado actual del trabajo.
+- [ Lesme Franco ]
+- [ Sarniguette Valentino ]
+- [ Franco Valentin]
 
 ## Expectativa del día
 
-Describir los objetivos para cada integrante
+Finalizar exitosamente la programación del MH-Real-Time, pudiendo mostrar los datos por terminal.
+Conocer y aprender el funcionamiento del sensor ACS712 (Sensor de corriente)
+Finalizar la programación de este sensor
+Poder practicar soldaduras en SMD (Surface Mount Device)
+
+## Trabajo actual
+
+Tenemos hecho hasta el momento el DHT11 (Sensor de humedad y temperatura) y el DS1306 MH-Real-Time en proceso.
 
 ## Observaciones
-
-Cualquier observación que haya del día
 ```
-
-## Convenciones
-
-Nombrar los archivos como `daily-xx` reemplazando xx por el número de daily que corresponda.
