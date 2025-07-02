@@ -1,2 +1,1 @@
-# ppe_newton
-Repositorio para las prácticas profesionalizantes externas desarrolladas en Newton
+# DHT11 - Sensor de Temperatura y Humedad
