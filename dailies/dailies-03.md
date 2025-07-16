@@ -3,15 +3,13 @@
 En este directorio van los informes de reuniones diarias. Pueden tener el siguiente template como referencia:
 
 ```markdown
-# Reunión diaria \#03 - DD/MM/AA
+# Reunión diaria \#03 - 16/07/25
 
 ## Miembros presentes
 
-- [ ] Integrante 1
-- [ ] Integrante 2
-- [ ] Integrante 3
-- [ ] Integrante 4
-- [ ] Integrante 5
+- [ Valentino Sarniguette ]
+- [ Franco Lesme ]
+- [ Valentin Franco ]
 
 ## Trabajo actual
 
@@ -19,11 +17,12 @@ Describir brevemente el estado actual del trabajo.
 
 ## Expectativa del día
 
-Describir los objetivos para cada integrante
+- Realizacion del Informe Tecnico
+- Hacer funcionar la Termocupla 
 
 ## Observaciones
 
-Cualquier observación que haya del día
+- Le dimos un cierre final a nuestro paso por la Empresa "Newton SRL" haciendo el Informe final acerca del proyecto DataLogger, y dandole un optimo funcionamiento al ultimo sensor restante sin programar que nos quedaba, que era la Termocupla. La toma de datos de los 3 sensores fue exitosa y estan listos para que el proximo grupo tenga una base solida por donde proseguir.
 ```
 
 ## Convenciones
